@@ -5,5 +5,4 @@ Surface 2 running either Windows RT 8.1 Update 3 or Windows 10 (build 15035)
 
 there are two projects currently in progress under this banner:
 Luna - A fork and port of Pale Moon (https://github.com/arm32fox-project/luna)
-Nightfox - a port of MyPal 68, which is based upon Firefox 68 (https://github.com/arm32fox-project/nightfox)
-
+~~Nightfox - a port of MyPal 68, which is based upon Firefox 68 (https://github.com/arm32fox-project/nightfox)~~ This has been archived indefinitely, feel free to fork it.
